@@ -1,36 +1,46 @@
 body {
-    background: green;
+    background: black;
 }
 
 h1 {
-    background-color: yellow;
+    background-color: white;
+    padding:25px;
     text-align: center;
+    color: red;
+    font-size:50px
 }
 
 h2 {
     text-decoration: underline;
-    
+    background-color: black;
+    color:red;
 }
-
+ul{
+    font-size:25px;
+}
 #imageContainer {
     display: none;
 max-width: min-content;
 }
 
 #aboutMeList {
-    background-color: yellow;
+    background-color:black;
+    color:white;
     
 }
 
 #hobbies {
-    background-color: yellow;
+    background-color: black;
+    color:white;
 }
 
 #interests {
-    background-color: yellow;
+    background-color: black;
+    color: white;
 }
-
+/* color: colorValue; to change font color*/
 #careerGoals {
-    background-color: yellow;
+    background-color: black;
+    color: white;
 }
 
