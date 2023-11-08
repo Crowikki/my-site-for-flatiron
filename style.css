@@ -1,9 +1,9 @@
 body {
-    background: white;
+    background: green;
 }
 
 h1 {
-    background-color: red;
+    background-color: yellow;
     text-align: center;
 }
 
@@ -12,9 +12,25 @@ h2 {
     
 }
 
+#imageContainer {
+    display: none;
+max-width: min-content;
+}
 
+#aboutMeList {
+    background-color: yellow;
+    
+}
 
+#hobbies {
+    background-color: yellow;
+}
 
+#interests {
+    background-color: yellow;
+}
 
-
+#careerGoals {
+    background-color: yellow;
+}
 
