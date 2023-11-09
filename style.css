@@ -44,3 +44,30 @@ max-width: min-content;
     color: white;
 }
 
+/*#victus { */
+   /* transform: translate(-250px, -250px);*/ /* the transform: translate move the picture x,y */
+/* width: 400px;
+    height: auto;
+    float: right;*/
+    /* float makes things line up horizontal  width resizes picture and height:auto perserves aspect ratio*/
+/* } */
+
+#cancun {
+    transform: translate(-500px, -215px);
+    width: 600px;
+    height:225px;
+    float: right;
+}
+
+#penTest {
+    width:800px;
+    height: 200px;
+}
+
+#banner {
+    width:100%;
+    height: 200px;
+    text-align: center;
+    transform: translate(-100px, 100px);
+   
+}
