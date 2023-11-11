@@ -7,3 +7,4 @@ document.getElementById("showImageButton").addEventListener("click", function() 
     imageContainer.style.display = "block";
 });
 
+// figure out how to close my button on my next website
